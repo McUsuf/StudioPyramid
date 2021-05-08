@@ -1,0 +1,15 @@
+.brick {
+    width: 23px;
+    height: 23px;
+    background-color: brown;
+    margin: 2px;
+    float: left;
+}
+
+.space {
+    width: 23px;
+    height: 23px;
+    background-color: white;
+    margin: 2px;
+    float: left;
+}
